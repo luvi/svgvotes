@@ -31,7 +31,7 @@ export default class ConstituencyCard extends Component {
 
         {candidates.map((obj) => {
 
-            return <CandidateCard  name={obj.name} party={obj.party} occupation={obj.occupation} bio={obj.bio} website={obj.website} ranBefore={obj.ranBefore} hasBeenElected={obj.electedBefore}  />
+            return <CandidateCard  name={obj.name} photo={obj.photo} party={obj.party} occupation={obj.occupation} bio={obj.bio} website={obj.website} ranBefore={obj.ranBefore} hasBeenElected={obj.electedBefore}  />
 
 
         })} 

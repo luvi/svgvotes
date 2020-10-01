@@ -13,7 +13,7 @@ export default class CandidateCard extends Component {
       <Card style={{ width: "18rem" }}>
         <Card.Img
           variant="top"
-          src="http://caribbeanelections.com/vc/images/people/Edwin_Snagg_2010.png"
+          src={this.props.photo}
         />
         <Card.Body>
           <Card.Title>

@@ -4,6 +4,7 @@ export default [
     candidates: [
       {
         name: "Edwin Snagg",
+        photo: "src/images/Edwin Snagg.jpg",
         party: "ULP",
         occupation: "Director, Grenadine Affairs",
         bio: "Jelly-o gummi bears wafer. Oat cake cupcake bonbon toffee. Jelly tiramisu gummi bears jelly beans dragée dragée cupcake fruitcake.Jelly beans pastry toffee halvah caramels. Jujubes chocolate cake croissant powder marshmallow lemon drops jujubes gingerbread gingerbread",
@@ -13,6 +14,7 @@ export default [
       },
       {
         name: "Terrance Ollivierre",
+        photo: "src/images/Honourable-Terrance-Ollivere-yellow.png",
         party: "NDP",
         occupation: "MP Southern Grenadines",
         bio: "Jelly-o gummi bears wafer. Oat cake cupcake bonbon toffee. Jelly tiramisu gummi bears jelly beans dragée dragée cupcake fruitcake.Jelly beans pastry toffee halvah caramels. Jujubes chocolate cake croissant powder marshmallow lemon drops jujubes gingerbread gingerbread",
