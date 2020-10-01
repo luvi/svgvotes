@@ -2,16 +2,19 @@ import React, { Component } from "react";
 import { Card, Badge } from "react-bootstrap";
 
 
+
 export default class CandidateCard extends Component {
 
 
   render() {
+
+    
     return (
 
       <Card style={{ width: "18rem" }}>
         <Card.Img
           variant="top"
-          src={this.props.photo}
+          src={process.env.PUBLIC_URL + `${this.props.photo}`}
         />
         <Card.Body>
           <Card.Title>
