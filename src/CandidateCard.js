@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import { Card, Badge } from "react-bootstrap";
 
+
 export default class CandidateCard extends Component {
   constructor(props) {
     super(props);
