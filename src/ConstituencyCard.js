@@ -4,9 +4,7 @@ import CandidateCard from "./CandidateCard";
 
 
 export default class ConstituencyCard extends Component {
-  constructor(props) {
-    super(props);
-  }
+
 
   render() {
 

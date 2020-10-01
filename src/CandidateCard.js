@@ -3,10 +3,7 @@ import { Card, Badge } from "react-bootstrap";
 
 
 export default class CandidateCard extends Component {
-  constructor(props) {
-    super(props);
 
-  } 
 
   render() {
     return (
