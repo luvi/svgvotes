@@ -11,7 +11,7 @@ export default class CandidateCard extends Component {
     
     return (
 
-      <Card style={{ width: "18rem" }}>
+      <Card style={{ width: "18rem", minWidth: "18rem", margin:"2rem" }}>
         <Card.Img
           variant="top"
           src={process.env.PUBLIC_URL + `${this.props.photo}`}

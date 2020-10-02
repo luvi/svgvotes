@@ -260,7 +260,7 @@ export default [
         name: "Nigel \"Nature\" Stephenson ",
         photo: "images/Hon Nigel Nature Stephen South Leeward.jpg",
         party: "NDP",
-        occupation: "",
+        occupation: "MP South Leeward",
         bio: "Jelly-o gummi bears wafer. Oat cake cupcake bonbon toffee. Jelly tiramisu gummi bears jelly beans dragée dragée cupcake fruitcake.Jelly beans pastry toffee halvah caramels. Jujubes chocolate cake croissant powder marshmallow lemon drops jujubes gingerbread gingerbread",
         ranBefore: 1,
         electedBefore: 1,
@@ -289,7 +289,7 @@ export default [
         occupation: "Entrepreneur",
         bio: "Jelly-o gummi bears wafer. Oat cake cupcake bonbon toffee. Jelly tiramisu gummi bears jelly beans dragée dragée cupcake fruitcake.Jelly beans pastry toffee halvah caramels. Jujubes chocolate cake croissant powder marshmallow lemon drops jujubes gingerbread gingerbread",
         ranBefore: 1,
-        electedBefore: 1,
+        electedBefore: 0,
         website:
           "https://www.ndpsvg.org/candidates/honourable-nigel-stephenson",
       },
