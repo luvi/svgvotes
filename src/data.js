@@ -128,5 +128,93 @@ export default [
           "https://www.ndpsvg.org/candidates/hon-daniel-e-cummings",
       },
     ]
+  }, {
+    constituency: "East St. George",
+    candidates: [
+      {
+        name: "Camillo Gonsalves",
+        photo: "images/Camillo_Gonsalves_2015.jpg",
+        party: "ULP",
+        occupation: "Minister of Finance, Economic Planning, Sustainable Development, and Information Technology",
+        bio: "Jelly-o gummi bears wafer. Oat cake cupcake bonbon toffee. Jelly tiramisu gummi bears jelly beans dragée dragée cupcake fruitcake.Jelly beans pastry toffee halvah caramels. Jujubes chocolate cake croissant powder marshmallow lemon drops jujubes gingerbread gingerbread",
+        ranBefore: 1,
+        electedBefore: 1,
+        website: "http://www.caribbeanelections.com/knowledge/biography/bios/gonsalves_camillo.asp",
+      },
+      {
+        name: "Laverne Gibson-Velox",
+        photo: "images/Lavern Gibson-Velox.jpg",
+        party: "NDP",
+        occupation: "Retired- Former CEO St. Vincent Cooperative Bank (Penny Bank)",
+        bio: "Jelly-o gummi bears wafer. Oat cake cupcake bonbon toffee. Jelly tiramisu gummi bears jelly beans dragée dragée cupcake fruitcake.Jelly beans pastry toffee halvah caramels. Jujubes chocolate cake croissant powder marshmallow lemon drops jujubes gingerbread gingerbread",
+        ranBefore: 0,
+        electedBefore: 0,
+        website:
+          "http://www.caribbeanelections.com/knowledge/biography/bios/gonsalves_camillo.asp",
+      },
+    ]
+  },
+  {
+    constituency: "West St. George",
+    candidates: [
+      {
+        name: "Curtis King",
+        photo: "images/Curtis King.jpg",
+        party: "ULP",
+        occupation: "Retired- Former Principal, SVG Grammar School (Educator)",
+        bio: "Jelly-o gummi bears wafer. Oat cake cupcake bonbon toffee. Jelly tiramisu gummi bears jelly beans dragée dragée cupcake fruitcake.Jelly beans pastry toffee halvah caramels. Jujubes chocolate cake croissant powder marshmallow lemon drops jujubes gingerbread gingerbread",
+        ranBefore: 0,
+        electedBefore: 0,
+        website: "http://www.caribbeanelections.com/knowledge/biography/bios/gonsalves_camillo.asp",
+      },
+      {
+        name: "Kay Bacchus-Baptiste",
+        photo: "images/Kay Bacchus Baptiste.jpg",
+        party: "NDP",
+        occupation: "Opposition Senator/Lawyer",
+        bio: "Jelly-o gummi bears wafer. Oat cake cupcake bonbon toffee. Jelly tiramisu gummi bears jelly beans dragée dragée cupcake fruitcake.Jelly beans pastry toffee halvah caramels. Jujubes chocolate cake croissant powder marshmallow lemon drops jujubes gingerbread gingerbread",
+        ranBefore: 0,
+        electedBefore: 0,
+        website:
+          "http://www.caribbeanelections.com/knowledge/biography/bios/gonsalves_camillo.asp",
+      },
+    ]
+  },
+  {
+    constituency: "Marriaqua",
+    candidates: [
+      {
+        name: "St. Clair \"Jimmy\" Prince",
+        photo: "images/jimmyprince.jpg",
+        party: "ULP",
+        occupation: "Minister of Education, National Reconciliation, Ecclesiastical Affairs and Information",
+        bio: "Jelly-o gummi bears wafer. Oat cake cupcake bonbon toffee. Jelly tiramisu gummi bears jelly beans dragée dragée cupcake fruitcake.Jelly beans pastry toffee halvah caramels. Jujubes chocolate cake croissant powder marshmallow lemon drops jujubes gingerbread gingerbread",
+        ranBefore: 1,
+        electedBefore: 1,
+        website: "http://www.caribbeanelections.com/knowledge/biography/bios/prince_stclair.asp",
+      },
+      {
+        name: "Bernard Wyllie",
+        photo: "images/Bernard Wyllie.jpg",
+        party: "NDP",
+        occupation: "-",
+        bio: "Jelly-o gummi bears wafer. Oat cake cupcake bonbon toffee. Jelly tiramisu gummi bears jelly beans dragée dragée cupcake fruitcake.Jelly beans pastry toffee halvah caramels. Jujubes chocolate cake croissant powder marshmallow lemon drops jujubes gingerbread gingerbread",
+        ranBefore: 1,
+        electedBefore: 1,
+        website:
+          "",
+      },
+      {
+        name: "Danroy Paul",
+        photo: "images/Danroy Paul.jpg",
+        party: "UPP",
+        occupation: "-",
+        bio: "Jelly-o gummi bears wafer. Oat cake cupcake bonbon toffee. Jelly tiramisu gummi bears jelly beans dragée dragée cupcake fruitcake.Jelly beans pastry toffee halvah caramels. Jujubes chocolate cake croissant powder marshmallow lemon drops jujubes gingerbread gingerbread",
+        ranBefore: 0,
+        electedBefore: 0,
+        website:
+          "",
+      }
+    ]
   }
 ];
