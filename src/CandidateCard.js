@@ -24,9 +24,9 @@ export default class CandidateCard extends Component {
             {this.props.occupation}
           </Card.Subtitle>
           <Card.Text>
-            {this.props.bio}
+            {/* {this.props.bio} */}
           </Card.Text>
-          <Card.Link href={this.props.website}>Official Website</Card.Link> <br />
+          <Card.Link href={this.props.website}>Website</Card.Link> <br />
           <Badge variant="secondary">{this.props.ranBefore === 1 ? "Ran Before" : "Has Never Run"}</Badge> <br />
           <Badge variant="secondary">{this.props.hasBeenElected === 1 ? "Has Been Elected" : "Has Never Been Elected"}</Badge>
         </Card.Body>
