@@ -92,7 +92,7 @@ export default [
       },
       {
         name: "Dwight Fitzgerald Bramble",
-        photo: "",
+        photo: "images/Fitzgerald Bramble.jpg",
         party: "NDP",
         occupation: "Economist",
         bio: "Jelly-o gummi bears wafer. Oat cake cupcake bonbon toffee. Jelly tiramisu gummi bears jelly beans dragée dragée cupcake fruitcake.Jelly beans pastry toffee halvah caramels. Jujubes chocolate cake croissant powder marshmallow lemon drops jujubes gingerbread gingerbread",
@@ -363,7 +363,7 @@ export default [
     candidates: [
       {
         name: "Frederick \"Gustaus\" Stephenson",
-        photo: "images/Minerva Glasgow.jpg",
+        photo: "images/Frederick_Stephenson_2015.png",
         party: "ULP",
         occupation: "Minister of National Mobilization, Social Development, The Family, Persons with Disabilities and Youth",
         bio: "Jelly-o gummi bears wafer. Oat cake cupcake bonbon toffee. Jelly tiramisu gummi bears jelly beans dragée dragée cupcake fruitcake.Jelly beans pastry toffee halvah caramels. Jujubes chocolate cake croissant powder marshmallow lemon drops jujubes gingerbread gingerbread",
