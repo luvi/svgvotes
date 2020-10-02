@@ -165,7 +165,7 @@ export default [
         bio: "Jelly-o gummi bears wafer. Oat cake cupcake bonbon toffee. Jelly tiramisu gummi bears jelly beans dragée dragée cupcake fruitcake.Jelly beans pastry toffee halvah caramels. Jujubes chocolate cake croissant powder marshmallow lemon drops jujubes gingerbread gingerbread",
         ranBefore: 0,
         electedBefore: 0,
-        website: "http://www.caribbeanelections.com/knowledge/biography/bios/gonsalves_camillo.asp",
+        website: "",
       },
       {
         name: "Kay Bacchus-Baptiste",
@@ -176,7 +176,7 @@ export default [
         ranBefore: 0,
         electedBefore: 0,
         website:
-          "http://www.caribbeanelections.com/knowledge/biography/bios/gonsalves_camillo.asp",
+          "",
       },
     ]
   },
@@ -274,7 +274,7 @@ export default [
     candidates: [
       {
         name: "Orando Brewster",
-        photo: "images/Minerva Glasgow.jpg",
+        photo: "public/images/Orando Brewster.jpg",
         party: "ULP",
         occupation: "Medical Doctor",
         bio: "Jelly-o gummi bears wafer. Oat cake cupcake bonbon toffee. Jelly tiramisu gummi bears jelly beans dragée dragée cupcake fruitcake.Jelly beans pastry toffee halvah caramels. Jujubes chocolate cake croissant powder marshmallow lemon drops jujubes gingerbread gingerbread",
