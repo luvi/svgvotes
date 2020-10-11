@@ -220,18 +220,7 @@ export default [
         ranBefore: 1,
         electedBefore: 1,
         website: "",
-      },
-      {
-        name: "Danroy Paul",
-        photo: "images/Danroy Paul.jpg",
-        party: "UPP",
-        occupation: "-",
-        bio:
-          "Jelly-o gummi bears wafer. Oat cake cupcake bonbon toffee. Jelly tiramisu gummi bears jelly beans dragée dragée cupcake fruitcake.Jelly beans pastry toffee halvah caramels. Jujubes chocolate cake croissant powder marshmallow lemon drops jujubes gingerbread gingerbread",
-        ranBefore: 0,
-        electedBefore: 0,
-        website: "",
-      },
+      }
     ],
   },
   {
@@ -344,18 +333,7 @@ export default [
         electedBefore: 0,
         website:
           "https://www.ndpsvg.org/candidates/honourable-nigel-stephenson",
-      },
-      {
-        name: "Evrist G Tempro",
-        photo: "images/Evrist G Tempro.jpg",
-        party: "UPP",
-        occupation: "-",
-        bio:
-          "Jelly-o gummi bears wafer. Oat cake cupcake bonbon toffee. Jelly tiramisu gummi bears jelly beans dragée dragée cupcake fruitcake.Jelly beans pastry toffee halvah caramels. Jujubes chocolate cake croissant powder marshmallow lemon drops jujubes gingerbread gingerbread",
-        ranBefore: 0,
-        electedBefore: 0,
-        website: "http://www.gov.vc/index.php/hon-montgomery-daniel",
-      },
+      }
     ],
   },{
     constituency: "North Central Windward",
