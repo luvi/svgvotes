@@ -4,7 +4,7 @@ export default [
     candidates: [
       {
         name: "Carlos Williams",
-        photo: "images/Carlos Williams.jpg",
+        photo: "images/Carlos Williams.jpeg",
         party: "ULP",
         occupation: "-",
         bio:
@@ -152,7 +152,7 @@ export default [
       },
       {
         name: "Kay Bacchus-Baptiste",
-        photo: "images/Kay Bacchus Baptiste.jpg",
+        photo: "images/Kay Bacchus Baptiste.png",
         party: "NDP",
         occupation: "Opposition Senator/Lawyer",
         bio:
@@ -199,7 +199,7 @@ export default [
     candidates: [
       {
         name: 'St. Clair "Jimmy" Prince',
-        photo: "images/jimmyprince.jpg",
+        photo: "images/jimmyprince.jpeg",
         party: "ULP",
         occupation:
           "Minister of Education, National Reconciliation, Ecclesiastical Affairs and Information",
@@ -212,7 +212,7 @@ export default [
       },
       {
         name: "Bernard Wyllie",
-        photo: "images/Bernard Wyllie.jpg",
+        photo: "images/Bernard Wyllie.png",
         party: "NDP",
         occupation: "-",
         bio:
@@ -256,7 +256,7 @@ export default [
     candidates: [
       {
         name: "Orando Brewster",
-        photo: "public/images/Orando Brewster.jpg",
+        photo: "images/Orando Brewster.jpg",
         party: "ULP",
         occupation: "Medical Doctor",
         bio:
