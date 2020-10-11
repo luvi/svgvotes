@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import { Card } from "react-bootstrap";
 import CandidateCard from "./CandidateCard";
 
 
@@ -16,16 +15,13 @@ export default class ConstituencyCard extends Component {
     console.log(candidates);
 
     return (
-      <Card >
+      <>
+      <div style={{padding:'10px'}}>
         <h4>{this.props.constituency}</h4>
         <br />
         <br />
-
-        <div style={{
-            display: "flex",
-            flexDirection: "row",
-            justifyContent: "space-evenly",
-          }}>
+        </div>
+        <div style={{display:'flex',justifyContent: "space-evenly", flexFlow:"wrap"}} >
           {candidates.map((obj) => {
             return (
               <CandidateCard
@@ -41,7 +37,7 @@ export default class ConstituencyCard extends Component {
             );
           })}
         </div>
-      </Card>
+      </>
     );
   }
 }

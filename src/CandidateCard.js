@@ -12,7 +12,7 @@ const candidateCardStyle = {
 export default class CandidateCard extends Component {
   render() {
     return (
-      <Card style={{ width: "18rem", margin:"2rem" }}>
+      <Card style={{ width: '18rem', minWidth: "300px", margin:"2rem" }}>
         <Card.Img
           variant="top"
           src={process.env.PUBLIC_URL + `${this.props.photo}`}
