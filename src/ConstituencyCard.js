@@ -2,12 +2,7 @@ import React, { Component } from "react";
 import CandidateCard from "./CandidateCard";
 
 
-const constituencyCardStyle = {
 
-  border: '0.5px',
-  borderRadius: '0',
-
-}
 
 export default class ConstituencyCard extends Component {
   render() {

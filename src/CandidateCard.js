@@ -1,13 +1,6 @@
 import React, { Component } from "react";
 import { Card, Badge } from "react-bootstrap";
 
-const candidateCardStyle = {
-
-  minWidth: '200px',
-  borderRadius: '0'
-
-
-}
 
 export default class CandidateCard extends Component {
   render() {
